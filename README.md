@@ -13,7 +13,7 @@ The original analysis was to find how school spending, school size, and school t
   <img src="https://github.com/armyofkittens/School_District_Analysis/blob/main/Resources/Per%20School%20Summary.png" width="1000"/>
 </p>
 
-* Removal of the ninth grade math and reading scores did not change Thomas High Schools' rank in the top 5 schools in the district.
+* Removal of the ninth grade math and reading scores did not change THS' rank in the top 5 schools in the district.
 <p align="left">
   <img src="https://github.com/armyofkittens/School_District_Analysis/blob/main/Resources/Top%205%20Schools.png" width="1000"/>
 </p>
@@ -47,3 +47,19 @@ The original analysis was to find how school spending, school size, and school t
 </p>
 
 ## Summary
+While the change in data caused a small impact to the overall district and the individual school performance, it did not cause a rank reduction for THS in the top five schools in the district. It also caused a small skew in data for medium-small, and lower spending schools, with no impact to the scores by school type. After reworking the analysis, it is clear that removal of ninth grade math and reading scores for THS did not cause a large impact to any of the metrics.
+
+## Code examples
+### Deliverable 1
+<p align="left">
+  <img src="https://github.com/armyofkittens/School_District_Analysis/blob/main/Resources/Example%20Code%200.png" width="700"/>
+</p>
+
+### Deliverable 2
+<p align="left">
+  <img src="https://github.com/armyofkittens/School_District_Analysis/blob/main/Resources/Example%20Code%201.png" width="700"/>
+</p>
+
+<p align="left">
+  <img src="https://github.com/armyofkittens/School_District_Analysis/blob/main/Resources/Example%20Code%202.png" width="700"/>
+</p>
