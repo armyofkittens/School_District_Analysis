@@ -47,7 +47,7 @@ The original analysis was to find how school spending, school size, and school t
 </p>
 
 ## Summary
-While the change in data caused a small impact to the overall district and the individual school performance, it did not cause a rank reduction for THS in the top five schools in the district. It caused a small skew in data for lower spending schools, with no impact to the scores by school type or school size. After reworking the analysis, it is clear that removal of ninth grade math and reading scores for THS did not cause a large impact.
+While the change in data caused a small impact to the overall district and the individual school performance, it did not cause a rank reduction for THS in the top five schools in the district, despite reduction in % overall passing. It caused a small skew in data for lower spending schools, with no impact to the scores by school type or school size. The most noticeable change was the very noticeable nan value for THS when viewing scores by grade. After reworking the analysis, it is clear that removal of ninth grade math and reading scores for THS did not cause a large impact.
 
 ## Code examples
 ### Deliverable 1
