@@ -3,7 +3,7 @@
 The original analysis was to find how school spending, school size, and school type affects the overall math and reading scores for a sample of 15 schools in a district. It was later discovered however, that Thomas High School (THS) may have altered their ninth grade math and reading scores. The new analysis was to find how removing those scores from the data pool impacts the district's metrics. 
 
 ## Results of Analysis
-* The  scores did go down in the district summary, however impact to the overall district were negligable. 
+* The  scores did go down in the district summary, however impact to the overall district was negligable. 
 <p align="left">
   <img src="https://github.com/armyofkittens/School_District_Analysis/blob/main/Resources/District%20Summary.png" width="1000"/>
 </p>
@@ -34,7 +34,7 @@ The original analysis was to find how school spending, school size, and school t
   <img src="https://github.com/armyofkittens/School_District_Analysis/blob/main/Resources/Spending%20Summary.png" width="700"/>
 </p>
 
-* Removal of THS math and reading scores caused a small increase to schools in the medium to small range, and a small decrease to schools in the large range.
+* The scores by school size were not impacted at all.
 
 <p align="left">
   <img src="https://github.com/armyofkittens/School_District_Analysis/blob/main/Resources/School%20Size.png" width="700"/>
@@ -47,7 +47,7 @@ The original analysis was to find how school spending, school size, and school t
 </p>
 
 ## Summary
-While the change in data caused a small impact to the overall district and the individual school performance, it did not cause a rank reduction for THS in the top five schools in the district. It also caused a small skew in data for medium-small, and lower spending schools, with no impact to the scores by school type. After reworking the analysis, it is clear that removal of ninth grade math and reading scores for THS did not cause a large impact to any of the metrics.
+While the change in data caused a small impact to the overall district and the individual school performance, it did not cause a rank reduction for THS in the top five schools in the district. It caused a small skew in data for lower spending schools, with no impact to the scores by school type or school size. After reworking the analysis, it is clear that removal of ninth grade math and reading scores for THS did not cause a large impact.
 
 ## Code examples
 ### Deliverable 1
